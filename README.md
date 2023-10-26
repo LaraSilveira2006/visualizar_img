@@ -7,5 +7,5 @@
 </div>
 <h1>TELA DO PROJETO</h1>
 <div>
-  <img align="center" alt="projeto" height="350px" width="220px" src="capturar3.png">
+  <img align="center" alt="projeto" height="350px" width="330px" src="capturar3.png">
 </div>
