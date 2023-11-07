@@ -1,4 +1,4 @@
-# visualizar_img
+#visualizarimg/atividade2
 
 
 <h1>SOBRE O PROJETO:</h1>
